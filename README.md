@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Somil-Jain24/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -45,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
