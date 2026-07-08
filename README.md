@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Somil-Jain24/LeetCode/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Somil-Jain24/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Somil-Jain24/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Somil-Jain24/LeetCode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/0509-fibonacci-number) |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0509-fibonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Somil-Jain24/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
