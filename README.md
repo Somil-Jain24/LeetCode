@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/Somil-Jain24/LeetCode/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Somil-Jain24/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/Somil-Jain24/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Somil-Jain24/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Somil-Jain24/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Somil-Jain24/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Somil-Jain24/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Somil-Jain24/LeetCode/tree/master/0064-minimum-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Somil-Jain24/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
