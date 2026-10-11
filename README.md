@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/Somil-Jain24/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/Somil-Jain24/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Somil-Jain24/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Somil-Jain24/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Somil-Jain24/LeetCode/tree/master/0279-perfect-squares) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Somil-Jain24/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
