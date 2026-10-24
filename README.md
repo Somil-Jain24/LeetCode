@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0242-valid-anagram](https://github.com/Somil-Jain24/LeetCode/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Somil-Jain24/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2409-count-days-spent-together](https://github.com/Somil-Jain24/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Somil-Jain24/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Somil-Jain24/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/Somil-Jain24/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Somil-Jain24/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Somil-Jain24/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
