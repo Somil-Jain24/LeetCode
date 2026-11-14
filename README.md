@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Somil-Jain24/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Somil-Jain24/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Somil-Jain24/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Somil-Jain24/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Somil-Jain24/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Somil-Jain24/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3693-climbing-stairs-ii](https://github.com/Somil-Jain24/LeetCode/tree/master/3693-climbing-stairs-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Somil-Jain24/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Somil-Jain24/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Somil-Jain24/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Somil-Jain24/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Somil-Jain24/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
