@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/Somil-Jain24/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/Somil-Jain24/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Somil-Jain24/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Somil-Jain24/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Somil-Jain24/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Somil-Jain24/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Somil-Jain24/LeetCode/tree/master/1882-process-tasks-using-servers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Somil-Jain24/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Somil-Jain24/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Somil-Jain24/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Somil-Jain24/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Somil-Jain24/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1137-n-th-tribonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Somil-Jain24/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Somil-Jain24/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Somil-Jain24/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Somil-Jain24/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Somil-Jain24/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Somil-Jain24/LeetCode/tree/master/3693-climbing-stairs-ii) |
@@ -233,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Somil-Jain24/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Somil-Jain24/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
