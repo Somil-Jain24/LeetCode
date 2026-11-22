@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0242-valid-anagram](https://github.com/Somil-Jain24/LeetCode/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Somil-Jain24/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Somil-Jain24/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Somil-Jain24/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Somil-Jain24/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Somil-Jain24/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
