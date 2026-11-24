@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Somil-Jain24/LeetCode/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/Somil-Jain24/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/Somil-Jain24/LeetCode/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Somil-Jain24/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/0509-fibonacci-number) |
