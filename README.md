@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Somil-Jain24/LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Somil-Jain24/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Somil-Jain24/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/Somil-Jain24/LeetCode/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Somil-Jain24/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Somil-Jain24/LeetCode/tree/master/0069-sqrtx) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Somil-Jain24/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Somil-Jain24/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3934-smallest-unique-subarray](https://github.com/Somil-Jain24/LeetCode/tree/master/3934-smallest-unique-subarray) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Somil-Jain24/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Somil-Jain24/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
