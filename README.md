@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Somil-Jain24/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Somil-Jain24/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Somil-Jain24/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Somil-Jain24/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Somil-Jain24/LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Somil-Jain24/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
